@@ -1,4 +1,3 @@
-import cv2
 import tkinter
 from tkinter import filedialog
 from media_detection import snap_track
