@@ -1,6 +1,5 @@
 import cv2
 import tkinter
-#from PIL import ImageTk, Image
 from tkinter import filedialog
 from media_detection import snap_track
 
