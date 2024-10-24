@@ -16,7 +16,7 @@ GUI
 ## Installation
 1. Clone the repository:
     ```
-    git clone https://github.com/SeccreDev/snap-n-track.git](https://github.com/SeccreDev/snap-n-track.git
+    git clone https://github.com/SeccreDev/snap-n-track.git
     
     ```
 2. Change to the snap-n-track directory
